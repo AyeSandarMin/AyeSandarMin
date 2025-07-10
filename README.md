@@ -2,4 +2,4 @@
 <br><br>
 
 <h2 align="center">Hi 👋, I'm Aye</h2>
-<p align="center">visit https://ayesandarmin-portfolio.vercel.app/</p>
+<a href="https://ayesandarmin-portfolio.vercel.app" align="center">visit my portfolio</a>
