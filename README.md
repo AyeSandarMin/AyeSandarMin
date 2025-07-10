@@ -1,5 +1,8 @@
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/54fb7eef-b1e8-41dc-be97-57e4180b3b24" width="100%" height="500">
 <br><br>
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/216649450-e63af5d5-a769-4e9f-8bd1-c2b9005dc53c.gif" width="160" />
+</div><br><br>
 
 <h2 align="center">Hi 👋, I'm Aye</h2>
 <p align="center"><a href="https://ayesandarmin-portfolio.vercel.app" align="center">visit my portfolio</a></p>
