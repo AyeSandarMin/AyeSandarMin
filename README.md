@@ -3,4 +3,4 @@
 </div><br><br>
 
 <h2 align="center">Hi 👋, I'm Aye</h2>
-<p align="center"><a href="https://ayesandarmin-portfolio.vercel.app" align="center">visit my portfolio</a></p>
+<p align="center"><a href="https://www.ayesandarmin.info/" target="_blank" align="center">visit my portfolio</a></p>
